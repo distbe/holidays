@@ -2,6 +2,11 @@ import { DateInfo, getDateInfos } from "../api.ts";
 
 const API_KEY = Deno.env.get("API_KEY") ?? "";
 
+if (!API_KEY) {
+  console.error("API_KEY is not set");
+  Deno.exit(1);
+}
+
 async function generateDateFile(year: number) {
   const dates = new Map<string, DateInfo>();
   const types = [

@@ -1,0 +1,26 @@
+name: Generate Calendars
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 15 * * 0' # Monday 00:00 (+09:00)
+
+jobs:
+  cron:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+      - name: Generate
+        env:
+          API_KEY: ${{ secrets.API_KEY }}
+        run: deno task generate
+      - name: Commit
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: '.'
+          author_name: Dist.be Bot
+          author_email: bot@dist.be
+          message: 'sync: update dates'
