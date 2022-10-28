@@ -28,7 +28,7 @@ async function generateDateFile(year: number) {
   });
 
   Deno.writeFile(
-    `${year}.json`,
+    `./public/${year}.json`,
     new TextEncoder().encode(JSON.stringify(sorted, null, 2)),
   );
   console.log(`Generated ${year}.json`);

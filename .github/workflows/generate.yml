@@ -20,7 +20,12 @@ jobs:
       - name: Commit
         uses: EndBug/add-and-commit@v9
         with:
-          add: '.'
+          add: './public'
           author_name: Dist.be Bot
           author_email: bot@dist.be
           message: 'sync: update dates'
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
