@@ -123,26 +123,30 @@ export async function getDateInfos(
     if (page > 1) {
       url.searchParams.append("pageNo", `${page}`);
     }
-    const response = await fetch(url);
-    const body = await response.json() as DateResponse<
-      RawDatesBody
-    >;
+    try {
+      const response = await fetch(url);
+      const body = await response.json() as DateResponse<
+        RawDatesBody
+      >;
 
-    if (!body.response.body.items || body.response.body.totalCount === 0) {
-      break;
+      if (!body.response.body.items || body.response.body.totalCount === 0) {
+        break;
+      }
+
+      items = items.concat(
+        Array.isArray(body.response.body.items.item)
+          ? body.response.body.items.item
+          : [body.response.body.items.item],
+      );
+
+      if (items.length >= body.response.body.totalCount) {
+        break;
+      }
+
+      page++;
+    } catch {
+      throw new Error("not found");
     }
-
-    items = items.concat(
-      Array.isArray(body.response.body.items.item)
-        ? body.response.body.items.item
-        : [body.response.body.items.item],
-    );
-
-    if (items.length >= body.response.body.totalCount) {
-      break;
-    }
-
-    page++;
   }
   return items.map(transformDateInfo);
 }

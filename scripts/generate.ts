@@ -1,5 +1,7 @@
 import { DateInfo, getDateInfos } from "../api.ts";
 
+const API_KEY = Deno.env.get("API_KEY") ?? "";
+
 async function generateDateFile(year: number) {
   const dates = new Map<string, DateInfo>();
   const types = [
@@ -11,7 +13,7 @@ async function generateDateFile(year: number) {
   ] as const;
 
   for (const type of types) {
-    for (const date of await getDateInfos(apiKey, type, year)) {
+    for (const date of await getDateInfos(API_KEY, type, year)) {
       dates.set(JSON.stringify(date), date);
     }
   }
@@ -27,9 +29,12 @@ async function generateDateFile(year: number) {
   console.log(`Generated ${year}.json`);
 }
 
-const apiKey = Deno.env.get("API_KEY") ?? "";
-
 const year = new Date().getFullYear();
 
-await generateDateFile(year);
-await generateDateFile(year + 1);
+try {
+  await generateDateFile(year);
+  await generateDateFile(year + 1);
+} catch (e) {
+  console.error(e);
+  Deno.exit(1);
+}

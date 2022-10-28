@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "generate": "deno run --allow-env --allow-write --allow-net ./scripts/generate.ts"
+  }
+}
