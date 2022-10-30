@@ -11,6 +11,11 @@
    `https://cdn.jsdelivr.net/gh/distbe/holidays@gh-pages/{year}.json`
    - (예)
      [https://cdn.jsdelivr.net/gh/distbe/holidays@gh-pages/2022.json](https://cdn.jsdelivr.net/gh/distbe/holidays@gh-pages/2022.json)
+1. **Statically** :
+   `https://cdn.statically.io/gh/distbe/holidays/main/public/{year}.json`
+   - (예)
+     [https://cdn.statically.io/gh/distbe/holidays/main/public/2022.json](https://cdn.statically.io/gh/distbe/holidays/main/public/2022.json)
+
 
 ## 데이터 형식
 
