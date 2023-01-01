@@ -1,0 +1,1136 @@
+[
+  {
+    "date": "2024-01-01",
+    "name": "새해",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-01-06",
+    "name": "소한",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "05:49",
+    "sunLng": null
+  },
+  {
+    "date": "2024-01-20",
+    "name": "대한",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "23:07",
+    "sunLng": null
+  },
+  {
+    "date": "2024-02-04",
+    "name": "입춘",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "17:27",
+    "sunLng": null
+  },
+  {
+    "date": "2024-02-09",
+    "name": "설날",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-02-10",
+    "name": "설날",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-02-11",
+    "name": "설날",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-02-12",
+    "name": "대체공휴일(설날)",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-02-19",
+    "name": "우수",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "13:13",
+    "sunLng": null
+  },
+  {
+    "date": "2024-02-24",
+    "name": "정월대보름",
+    "holiday": false,
+    "remarks": null,
+    "kind": 4,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-02-28",
+    "name": "2·28 민주운동 기념일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-03-01",
+    "name": "삼일절",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-03-03",
+    "name": "납세자의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-03-05",
+    "name": "경칩",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "11:23",
+    "sunLng": null
+  },
+  {
+    "date": "2024-03-08",
+    "name": "3·8민주의거 기념일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-03-15",
+    "name": "3·15 의거 기념일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-03-15",
+    "name": "상공의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-03-20",
+    "name": "춘분",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "12:06",
+    "sunLng": null
+  },
+  {
+    "date": "2024-03-24",
+    "name": "서해수호의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-04-03",
+    "name": "4·3희생자 추념일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-04-04",
+    "name": "청명",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "16:02",
+    "sunLng": null
+  },
+  {
+    "date": "2024-04-05",
+    "name": "식목일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-04-05",
+    "name": "한식",
+    "holiday": false,
+    "remarks": null,
+    "kind": 4,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-04-07",
+    "name": "예비군의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-04-07",
+    "name": "보건의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-04-10",
+    "name": "국회의원선거",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-04-11",
+    "name": "도시농업의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-04-11",
+    "name": "대한민국임시정부 수립기념일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-04-19",
+    "name": "4·19혁명 기념일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-04-19",
+    "name": "곡우",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "23:00",
+    "sunLng": null
+  },
+  {
+    "date": "2024-04-20",
+    "name": "장애인의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-04-21",
+    "name": "과학의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-04-22",
+    "name": "정보통신의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-04-25",
+    "name": "법의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-04-28",
+    "name": "충무공 이순신 탄신일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-05-01",
+    "name": "근로자의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-05-05",
+    "name": "어린이날",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-05-05",
+    "name": "어린이 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-05-05",
+    "name": "입하",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "09:10",
+    "sunLng": null
+  },
+  {
+    "date": "2024-05-06",
+    "name": "대체공휴일(어린이날)",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-05-08",
+    "name": "어버이 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-05-10",
+    "name": "유권자의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-05-11",
+    "name": "동학농민혁명 기념일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-05-11",
+    "name": "입양의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-05-14",
+    "name": "식품안전의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-05-15",
+    "name": "부처님오신날",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-05-15",
+    "name": "스승의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-05-18",
+    "name": "5·18민주화운동 기념일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-05-19",
+    "name": "발명의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-05-20",
+    "name": "성년의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-05-20",
+    "name": "세계인의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-05-20",
+    "name": "소만",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "22:00",
+    "sunLng": null
+  },
+  {
+    "date": "2024-05-21",
+    "name": "부부의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-05-31",
+    "name": "바다의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-06-01",
+    "name": "의병의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-06-05",
+    "name": "환경의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-06-05",
+    "name": "망종",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "13:10",
+    "sunLng": null
+  },
+  {
+    "date": "2024-06-06",
+    "name": "현충일",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-06-09",
+    "name": "구강보건의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-06-10",
+    "name": "6·10민주항쟁 기념일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-06-10",
+    "name": "6·10만세운동 기념일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-06-10",
+    "name": "단오",
+    "holiday": false,
+    "remarks": null,
+    "kind": 4,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-06-21",
+    "name": "하지",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "05:51",
+    "sunLng": null
+  },
+  {
+    "date": "2024-06-24",
+    "name": "전자정부의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-06-25",
+    "name": "6·25전쟁일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-06-26",
+    "name": "마약퇴치의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-06-28",
+    "name": "철도의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-07-06",
+    "name": "소서",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "23:20",
+    "sunLng": null
+  },
+  {
+    "date": "2024-07-10",
+    "name": "마약퇴치의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-07-11",
+    "name": "인구의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-07-15",
+    "name": "초복",
+    "holiday": false,
+    "remarks": null,
+    "kind": 4,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-07-17",
+    "name": "제헌절",
+    "holiday": false,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-07-22",
+    "name": "대서",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "16:44",
+    "sunLng": null
+  },
+  {
+    "date": "2024-07-25",
+    "name": "중복",
+    "holiday": false,
+    "remarks": null,
+    "kind": 4,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-07-27",
+    "name": "유엔군 참전의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-08-07",
+    "name": "입추",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "09:09",
+    "sunLng": null
+  },
+  {
+    "date": "2024-08-08",
+    "name": "섬의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-08-10",
+    "name": "칠석",
+    "holiday": false,
+    "remarks": null,
+    "kind": 4,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-08-14",
+    "name": "말복",
+    "holiday": false,
+    "remarks": null,
+    "kind": 4,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-08-15",
+    "name": "광복절",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-08-22",
+    "name": "처서",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "23:55",
+    "sunLng": null
+  },
+  {
+    "date": "2024-09-07",
+    "name": "푸른 하늘의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-09-07",
+    "name": "사회복지의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-09-07",
+    "name": "곤충의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-09-07",
+    "name": "백로",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "12:11",
+    "sunLng": null
+  },
+  {
+    "date": "2024-09-10",
+    "name": "해양경찰의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-09-16",
+    "name": "추석",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-09-17",
+    "name": "추석",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-09-18",
+    "name": "추석",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-09-21",
+    "name": "청년의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-09-22",
+    "name": "추분",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "21:44",
+    "sunLng": null
+  },
+  {
+    "date": "2024-09-30",
+    "name": "조달의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-10-01",
+    "name": "국군의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-10-02",
+    "name": "노인의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-10-03",
+    "name": "개천절",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-10-05",
+    "name": "세계 한인의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-10-08",
+    "name": "재향군인의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-10-08",
+    "name": "한로",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "04:00",
+    "sunLng": null
+  },
+  {
+    "date": "2024-10-09",
+    "name": "한글날",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-10-10",
+    "name": "임산부의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-10-10",
+    "name": "정신건강의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-10-15",
+    "name": "체육의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-10-16",
+    "name": "부마민주항쟁 기념일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-10-19",
+    "name": "문화의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-10-21",
+    "name": "경찰의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-10-23",
+    "name": "상강",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "07:15",
+    "sunLng": null
+  },
+  {
+    "date": "2024-10-24",
+    "name": "국제연합일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-10-28",
+    "name": "교정의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-10-29",
+    "name": "지방자치의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-10-29",
+    "name": "금융의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-11-03",
+    "name": "학생독립운동 기념일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-11-07",
+    "name": "입동",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "07:20",
+    "sunLng": null
+  },
+  {
+    "date": "2024-11-09",
+    "name": "소방의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-11-11",
+    "name": "농업인의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-11-11",
+    "name": "유엔참전용사 국제추모의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-11-17",
+    "name": "순국선열의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-11-19",
+    "name": "아동학대 예방의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-11-22",
+    "name": "김치의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-11-22",
+    "name": "소설",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "04:56",
+    "sunLng": null
+  },
+  {
+    "date": "2024-12-03",
+    "name": "소비자의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-12-05",
+    "name": "무역의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-12-05",
+    "name": "자원봉사자의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-12-07",
+    "name": "대설",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "00:17",
+    "sunLng": null
+  },
+  {
+    "date": "2024-12-21",
+    "name": "동지",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "18:21",
+    "sunLng": null
+  },
+  {
+    "date": "2024-12-25",
+    "name": "크리스마스",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-12-27",
+    "name": "원자력 안전 및 진흥의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  }
+]
