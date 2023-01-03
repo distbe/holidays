@@ -42,6 +42,10 @@ interface DateInfo {
 }
 ```
 
+## 활용중인 프로젝트
+
+- [NPM @kokr/date](https://www.npmjs.com/package/@kokr/date): Javascript나, Typescript에서 활용하기 쉽게 패키지로 만들었습니다. 패키지 업데이트 없이도 항상 최신 정보의 날짜 데이터를 사용할 수 있습니다.
+
 ## 데이터 출처
 
 데이터는 공공데이터 포털의
