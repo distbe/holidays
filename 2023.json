@@ -432,6 +432,15 @@
     "sunLng": null
   },
   {
+    "date": "2023-05-29",
+    "name": "부처님오신날 (대체공휴일)",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
     "date": "2023-05-31",
     "name": "바다의 날",
     "holiday": false,
