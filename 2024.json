@@ -15,7 +15,7 @@
     "remarks": null,
     "kind": 3,
     "time": "05:49",
-    "sunLng": null
+    "sunLng": 285
   },
   {
     "date": "2024-01-20",
@@ -24,7 +24,7 @@
     "remarks": null,
     "kind": 3,
     "time": "23:07",
-    "sunLng": null
+    "sunLng": 300
   },
   {
     "date": "2024-02-04",
@@ -33,7 +33,7 @@
     "remarks": null,
     "kind": 3,
     "time": "17:27",
-    "sunLng": null
+    "sunLng": 315
   },
   {
     "date": "2024-02-09",
@@ -78,7 +78,7 @@
     "remarks": null,
     "kind": 3,
     "time": "13:13",
-    "sunLng": null
+    "sunLng": 330
   },
   {
     "date": "2024-02-24",
@@ -86,7 +86,7 @@
     "holiday": false,
     "remarks": null,
     "kind": 4,
-    "time": null,
+    "time": "02:24",
     "sunLng": null
   },
   {
@@ -123,7 +123,7 @@
     "remarks": null,
     "kind": 3,
     "time": "11:23",
-    "sunLng": null
+    "sunLng": 345
   },
   {
     "date": "2024-03-08",
@@ -186,7 +186,7 @@
     "remarks": null,
     "kind": 3,
     "time": "16:02",
-    "sunLng": null
+    "sunLng": 15
   },
   {
     "date": "2024-04-05",
@@ -199,20 +199,20 @@
   },
   {
     "date": "2024-04-05",
-    "name": "한식",
-    "holiday": false,
-    "remarks": null,
-    "kind": 4,
-    "time": null,
-    "sunLng": null
-  },
-  {
-    "date": "2024-04-07",
     "name": "예비군의 날",
     "holiday": false,
     "remarks": null,
     "kind": 2,
     "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-04-05",
+    "name": "한식",
+    "holiday": false,
+    "remarks": null,
+    "kind": 4,
+    "time": "04:05",
     "sunLng": null
   },
   {
@@ -267,7 +267,7 @@
     "remarks": null,
     "kind": 3,
     "time": "23:00",
-    "sunLng": null
+    "sunLng": 30
   },
   {
     "date": "2024-04-20",
@@ -348,7 +348,7 @@
     "remarks": null,
     "kind": 3,
     "time": "09:10",
-    "sunLng": null
+    "sunLng": 45
   },
   {
     "date": "2024-05-06",
@@ -465,7 +465,7 @@
     "remarks": null,
     "kind": 3,
     "time": "22:00",
-    "sunLng": null
+    "sunLng": 60
   },
   {
     "date": "2024-05-21",
@@ -510,7 +510,7 @@
     "remarks": null,
     "kind": 3,
     "time": "13:10",
-    "sunLng": null
+    "sunLng": 75
   },
   {
     "date": "2024-06-06",
@@ -554,7 +554,7 @@
     "holiday": false,
     "remarks": null,
     "kind": 4,
-    "time": null,
+    "time": "06:10",
     "sunLng": null
   },
   {
@@ -564,7 +564,7 @@
     "remarks": null,
     "kind": 3,
     "time": "05:51",
-    "sunLng": null
+    "sunLng": 90
   },
   {
     "date": "2024-06-24",
@@ -609,11 +609,11 @@
     "remarks": null,
     "kind": 3,
     "time": "23:20",
-    "sunLng": null
+    "sunLng": 105
   },
   {
     "date": "2024-07-10",
-    "name": "마약퇴치의 날",
+    "name": "정보보호의 날",
     "holiday": false,
     "remarks": null,
     "kind": 2,
@@ -635,7 +635,7 @@
     "holiday": false,
     "remarks": null,
     "kind": 4,
-    "time": null,
+    "time": "07:15",
     "sunLng": null
   },
   {
@@ -654,7 +654,7 @@
     "remarks": null,
     "kind": 3,
     "time": "16:44",
-    "sunLng": null
+    "sunLng": 120
   },
   {
     "date": "2024-07-25",
@@ -662,7 +662,7 @@
     "holiday": false,
     "remarks": null,
     "kind": 4,
-    "time": null,
+    "time": "07:25",
     "sunLng": null
   },
   {
@@ -681,7 +681,7 @@
     "remarks": null,
     "kind": 3,
     "time": "09:09",
-    "sunLng": null
+    "sunLng": 135
   },
   {
     "date": "2024-08-08",
@@ -698,7 +698,7 @@
     "holiday": false,
     "remarks": null,
     "kind": 4,
-    "time": null,
+    "time": "08:10",
     "sunLng": null
   },
   {
@@ -707,7 +707,7 @@
     "holiday": false,
     "remarks": null,
     "kind": 4,
-    "time": null,
+    "time": "08:14",
     "sunLng": null
   },
   {
@@ -726,7 +726,7 @@
     "remarks": null,
     "kind": 3,
     "time": "23:55",
-    "sunLng": null
+    "sunLng": 150
   },
   {
     "date": "2024-09-07",
@@ -762,7 +762,7 @@
     "remarks": null,
     "kind": 3,
     "time": "12:11",
-    "sunLng": null
+    "sunLng": 165
   },
   {
     "date": "2024-09-10",
@@ -816,7 +816,7 @@
     "remarks": null,
     "kind": 3,
     "time": "21:44",
-    "sunLng": null
+    "sunLng": 180
   },
   {
     "date": "2024-09-30",
@@ -824,6 +824,15 @@
     "holiday": false,
     "remarks": null,
     "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2024-10-01",
+    "name": "임시공휴일",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
     "time": null,
     "sunLng": null
   },
@@ -879,7 +888,7 @@
     "remarks": null,
     "kind": 3,
     "time": "04:00",
-    "sunLng": null
+    "sunLng": 195
   },
   {
     "date": "2024-10-09",
@@ -951,7 +960,7 @@
     "remarks": null,
     "kind": 3,
     "time": "07:15",
-    "sunLng": null
+    "sunLng": 210
   },
   {
     "date": "2024-10-24",
@@ -1005,7 +1014,7 @@
     "remarks": null,
     "kind": 3,
     "time": "07:20",
-    "sunLng": null
+    "sunLng": 225
   },
   {
     "date": "2024-11-09",
@@ -1068,7 +1077,7 @@
     "remarks": null,
     "kind": 3,
     "time": "04:56",
-    "sunLng": null
+    "sunLng": 240
   },
   {
     "date": "2024-12-03",
@@ -1104,7 +1113,7 @@
     "remarks": null,
     "kind": 3,
     "time": "00:17",
-    "sunLng": null
+    "sunLng": 255
   },
   {
     "date": "2024-12-21",
@@ -1113,7 +1122,7 @@
     "remarks": null,
     "kind": 3,
     "time": "18:21",
-    "sunLng": null
+    "sunLng": 270
   },
   {
     "date": "2024-12-25",

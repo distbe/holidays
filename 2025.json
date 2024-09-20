@@ -1,0 +1,389 @@
+[
+  {
+    "date": "2025-01-01",
+    "name": "새해",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-01-05",
+    "name": "소한",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "11:33",
+    "sunLng": null
+  },
+  {
+    "date": "2025-01-20",
+    "name": "대한",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "05:00",
+    "sunLng": null
+  },
+  {
+    "date": "2025-01-28",
+    "name": "설날",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-01-29",
+    "name": "설날",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-01-30",
+    "name": "설날",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-02-03",
+    "name": "입춘",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "23:10",
+    "sunLng": null
+  },
+  {
+    "date": "2025-02-18",
+    "name": "우수",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "19:07",
+    "sunLng": null
+  },
+  {
+    "date": "2025-03-01",
+    "name": "삼일절",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-03-03",
+    "name": "삼일절 (대체공휴일)",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-03-05",
+    "name": "경칩",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "17:07",
+    "sunLng": null
+  },
+  {
+    "date": "2025-03-20",
+    "name": "춘분",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "18:01",
+    "sunLng": null
+  },
+  {
+    "date": "2025-04-04",
+    "name": "청명",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "21:49",
+    "sunLng": null
+  },
+  {
+    "date": "2025-04-20",
+    "name": "곡우",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "04:56",
+    "sunLng": null
+  },
+  {
+    "date": "2025-05-05",
+    "name": "어린이날",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-05-05",
+    "name": "부처님오신날",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-05-05",
+    "name": "입하",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "14:57",
+    "sunLng": null
+  },
+  {
+    "date": "2025-05-06",
+    "name": "부처님오신날 (대체공휴일)",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-05-21",
+    "name": "소만",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "03:55",
+    "sunLng": null
+  },
+  {
+    "date": "2025-06-05",
+    "name": "망종",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "18:57",
+    "sunLng": null
+  },
+  {
+    "date": "2025-06-06",
+    "name": "현충일",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-06-21",
+    "name": "하지",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "11:42",
+    "sunLng": null
+  },
+  {
+    "date": "2025-07-07",
+    "name": "소서",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "05:05",
+    "sunLng": null
+  },
+  {
+    "date": "2025-07-17",
+    "name": "제헌절",
+    "holiday": false,
+    "remarks": "국경일이지만 공휴일 아님",
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-07-22",
+    "name": "대서",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "22:29",
+    "sunLng": null
+  },
+  {
+    "date": "2025-08-07",
+    "name": "입추",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "14:52",
+    "sunLng": null
+  },
+  {
+    "date": "2025-08-15",
+    "name": "광복절",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-08-23",
+    "name": "처서",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "05:34",
+    "sunLng": null
+  },
+  {
+    "date": "2025-09-07",
+    "name": "백로",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "17:52",
+    "sunLng": null
+  },
+  {
+    "date": "2025-09-23",
+    "name": "추분",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "03:19",
+    "sunLng": null
+  },
+  {
+    "date": "2025-10-03",
+    "name": "개천절",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-10-05",
+    "name": "추석",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-10-06",
+    "name": "추석",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-10-07",
+    "name": "추석",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-10-08",
+    "name": "추석 (대체공휴일)",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-10-08",
+    "name": "한로",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "09:41",
+    "sunLng": null
+  },
+  {
+    "date": "2025-10-09",
+    "name": "한글날",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-10-23",
+    "name": "상강",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "12:51",
+    "sunLng": null
+  },
+  {
+    "date": "2025-11-07",
+    "name": "입동",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "13:04",
+    "sunLng": null
+  },
+  {
+    "date": "2025-11-22",
+    "name": "소설",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "10:36",
+    "sunLng": null
+  },
+  {
+    "date": "2025-12-07",
+    "name": "대설",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "06:05",
+    "sunLng": null
+  },
+  {
+    "date": "2025-12-22",
+    "name": "동지",
+    "holiday": false,
+    "remarks": null,
+    "kind": 3,
+    "time": "00:03",
+    "sunLng": null
+  },
+  {
+    "date": "2025-12-25",
+    "name": "크리스마스",
+    "holiday": true,
+    "remarks": null,
+    "kind": 1,
+    "time": null,
+    "sunLng": null
+  }
+]
