@@ -72,6 +72,15 @@
     "sunLng": null
   },
   {
+    "date": "2025-02-28",
+    "name": "2·28 민주운동 기념일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
     "date": "2025-03-01",
     "name": "삼일절",
     "holiday": true,
@@ -90,12 +99,57 @@
     "sunLng": null
   },
   {
+    "date": "2025-03-03",
+    "name": "납세자의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
     "date": "2025-03-05",
     "name": "경칩",
     "holiday": false,
     "remarks": null,
     "kind": 3,
     "time": "17:07",
+    "sunLng": null
+  },
+  {
+    "date": "2025-03-08",
+    "name": "3·8민주의거 기념일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-03-15",
+    "name": "3·15 의거 기념일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-03-19",
+    "name": "상공의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-03-19",
+    "name": "의용소방대의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
     "sunLng": null
   },
   {
@@ -108,6 +162,33 @@
     "sunLng": null
   },
   {
+    "date": "2025-03-28",
+    "name": "서해수호의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-04-03",
+    "name": "4·3희생자 추념일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-04-04",
+    "name": "예비군의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
     "date": "2025-04-04",
     "name": "청명",
     "holiday": false,
@@ -117,12 +198,120 @@
     "sunLng": null
   },
   {
+    "date": "2025-04-05",
+    "name": "식목일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-04-07",
+    "name": "보건의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-04-11",
+    "name": "대한민국임시정부 수립기념일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-04-11",
+    "name": "도시농업의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-04-19",
+    "name": "4·19혁명 기념일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-04-20",
+    "name": "장애인의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
     "date": "2025-04-20",
     "name": "곡우",
     "holiday": false,
     "remarks": null,
     "kind": 3,
     "time": "04:56",
+    "sunLng": null
+  },
+  {
+    "date": "2025-04-21",
+    "name": "과학의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-04-22",
+    "name": "정보통신의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-04-25",
+    "name": "법의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-04-25",
+    "name": "순직의무군경의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-04-28",
+    "name": "충무공 이순신 탄신일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-05-01",
+    "name": "근로자의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
     "sunLng": null
   },
   {
@@ -145,6 +334,15 @@
   },
   {
     "date": "2025-05-05",
+    "name": "어린이 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-05-05",
     "name": "입하",
     "holiday": false,
     "remarks": null,
@@ -162,12 +360,147 @@
     "sunLng": null
   },
   {
+    "date": "2025-05-08",
+    "name": "어버이 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-05-10",
+    "name": "유권자의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-05-11",
+    "name": "동학농민혁명 기념일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-05-11",
+    "name": "입양의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-05-14",
+    "name": "식품안전의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-05-15",
+    "name": "스승의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-05-18",
+    "name": "5·18민주화운동 기념일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-05-19",
+    "name": "성년의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-05-19",
+    "name": "발명의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-05-20",
+    "name": "세계인의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-05-21",
+    "name": "부부의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
     "date": "2025-05-21",
     "name": "소만",
     "holiday": false,
     "remarks": null,
     "kind": 3,
     "time": "03:55",
+    "sunLng": null
+  },
+  {
+    "date": "2025-05-29",
+    "name": "해외 파병용사의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-05-31",
+    "name": "바다의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-06-01",
+    "name": "의병의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-06-05",
+    "name": "환경의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
     "sunLng": null
   },
   {
@@ -189,6 +522,42 @@
     "sunLng": null
   },
   {
+    "date": "2025-06-06",
+    "name": "현충일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-06-09",
+    "name": "구강보건의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-06-10",
+    "name": "6·10민주항쟁 기념일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-06-10",
+    "name": "6·10만세운동 기념일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
     "date": "2025-06-21",
     "name": "하지",
     "holiday": false,
@@ -198,12 +567,75 @@
     "sunLng": null
   },
   {
+    "date": "2025-06-24",
+    "name": "전자정부의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-06-25",
+    "name": "6·25전쟁일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-06-26",
+    "name": "마약퇴치의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-06-28",
+    "name": "철도의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
     "date": "2025-07-07",
     "name": "소서",
     "holiday": false,
     "remarks": null,
     "kind": 3,
     "time": "05:05",
+    "sunLng": null
+  },
+  {
+    "date": "2025-07-09",
+    "name": "정보보호의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-07-11",
+    "name": "인구의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-07-14",
+    "name": "북한이탈주민의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
     "sunLng": null
   },
   {
@@ -225,12 +657,30 @@
     "sunLng": null
   },
   {
+    "date": "2025-07-27",
+    "name": "유엔군 참전의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
     "date": "2025-08-07",
     "name": "입추",
     "holiday": false,
     "remarks": null,
     "kind": 3,
     "time": "14:52",
+    "sunLng": null
+  },
+  {
+    "date": "2025-08-08",
+    "name": "섬의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
     "sunLng": null
   },
   {
@@ -253,11 +703,56 @@
   },
   {
     "date": "2025-09-07",
+    "name": "푸른 하늘의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-09-07",
+    "name": "사회복지의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-09-07",
+    "name": "곤충의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-09-07",
     "name": "백로",
     "holiday": false,
     "remarks": null,
     "kind": 3,
     "time": "17:52",
+    "sunLng": null
+  },
+  {
+    "date": "2025-09-10",
+    "name": "해양경찰의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-09-20",
+    "name": "청년의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
     "sunLng": null
   },
   {
@@ -267,6 +762,42 @@
     "remarks": null,
     "kind": 3,
     "time": "03:19",
+    "sunLng": null
+  },
+  {
+    "date": "2025-09-30",
+    "name": "조달의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-09-30",
+    "name": "개인정보 보호의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-10-01",
+    "name": "국군의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-10-02",
+    "name": "노인의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
     "sunLng": null
   },
   {
@@ -284,6 +815,15 @@
     "holiday": true,
     "remarks": null,
     "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-10-05",
+    "name": "세계 한인의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
     "time": null,
     "sunLng": null
   },
@@ -316,6 +856,15 @@
   },
   {
     "date": "2025-10-08",
+    "name": "재향군인의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-10-08",
     "name": "한로",
     "holiday": false,
     "remarks": null,
@@ -333,12 +882,111 @@
     "sunLng": null
   },
   {
+    "date": "2025-10-10",
+    "name": "임산부의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-10-10",
+    "name": "정신건강의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-10-15",
+    "name": "스포츠의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-10-16",
+    "name": "부마민주항쟁 기념일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-10-18",
+    "name": "문화의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-10-21",
+    "name": "경찰의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
     "date": "2025-10-23",
     "name": "상강",
     "holiday": false,
     "remarks": null,
     "kind": 3,
     "time": "12:51",
+    "sunLng": null
+  },
+  {
+    "date": "2025-10-24",
+    "name": "국제연합일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-10-28",
+    "name": "교정의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-10-28",
+    "name": "금융의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-10-29",
+    "name": "지방자치 및 균형발전의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-11-03",
+    "name": "학생독립운동 기념일",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
     "sunLng": null
   },
   {
@@ -351,12 +999,93 @@
     "sunLng": null
   },
   {
+    "date": "2025-11-09",
+    "name": "소방의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-11-11",
+    "name": "농업인의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-11-11",
+    "name": "유엔참전용사 국제추모의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-11-17",
+    "name": "순국선열의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-11-19",
+    "name": "아동학대 예방의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-11-22",
+    "name": "김치의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
     "date": "2025-11-22",
     "name": "소설",
     "holiday": false,
     "remarks": null,
     "kind": 3,
     "time": "10:36",
+    "sunLng": null
+  },
+  {
+    "date": "2025-12-03",
+    "name": "소비자의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-12-05",
+    "name": "무역의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-12-05",
+    "name": "자원봉사자의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
+    "time": null,
     "sunLng": null
   },
   {
@@ -383,6 +1112,15 @@
     "holiday": true,
     "remarks": null,
     "kind": 1,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-12-27",
+    "name": "원자력 안전 및 진흥의 날",
+    "holiday": false,
+    "remarks": null,
+    "kind": 2,
     "time": null,
     "sunLng": null
   }
