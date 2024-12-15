@@ -63,6 +63,15 @@
     "sunLng": null
   },
   {
+    "date": "2025-02-12",
+    "name": "정월대보름",
+    "holiday": false,
+    "remarks": null,
+    "kind": 4,
+    "time": null,
+    "sunLng": null
+  },
+  {
     "date": "2025-02-18",
     "name": "우수",
     "holiday": false,
@@ -203,6 +212,15 @@
     "holiday": false,
     "remarks": null,
     "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-04-05",
+    "name": "한식",
+    "holiday": false,
+    "remarks": null,
+    "kind": 4,
     "time": null,
     "sunLng": null
   },
@@ -486,6 +504,15 @@
     "sunLng": null
   },
   {
+    "date": "2025-05-31",
+    "name": "단오",
+    "holiday": false,
+    "remarks": null,
+    "kind": 4,
+    "time": null,
+    "sunLng": null
+  },
+  {
     "date": "2025-06-01",
     "name": "의병의 날",
     "holiday": false,
@@ -648,6 +675,15 @@
     "sunLng": null
   },
   {
+    "date": "2025-07-20",
+    "name": "초복",
+    "holiday": false,
+    "remarks": null,
+    "kind": 4,
+    "time": null,
+    "sunLng": null
+  },
+  {
     "date": "2025-07-22",
     "name": "대서",
     "holiday": false,
@@ -662,6 +698,15 @@
     "holiday": false,
     "remarks": null,
     "kind": 2,
+    "time": null,
+    "sunLng": null
+  },
+  {
+    "date": "2025-07-30",
+    "name": "중복",
+    "holiday": false,
+    "remarks": null,
+    "kind": 4,
     "time": null,
     "sunLng": null
   },
@@ -684,6 +729,15 @@
     "sunLng": null
   },
   {
+    "date": "2025-08-09",
+    "name": "말복",
+    "holiday": false,
+    "remarks": null,
+    "kind": 4,
+    "time": null,
+    "sunLng": null
+  },
+  {
     "date": "2025-08-15",
     "name": "광복절",
     "holiday": true,
@@ -699,6 +753,15 @@
     "remarks": null,
     "kind": 3,
     "time": "05:34",
+    "sunLng": null
+  },
+  {
+    "date": "2025-08-29",
+    "name": "칠석",
+    "holiday": false,
+    "remarks": null,
+    "kind": 4,
+    "time": null,
     "sunLng": null
   },
   {
